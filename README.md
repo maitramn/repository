@@ -1,3 +1,3 @@
 # repository
 My first repository 
-I am this repository for first time
+I am tried this repository for first time
